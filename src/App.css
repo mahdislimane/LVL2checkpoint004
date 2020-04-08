@@ -1,0 +1,12 @@
+.tableau {
+  border: solid 1px;
+  margin: 0;
+  padding: 10px;
+  height: 20px;
+  width: 100px;
+  text-align: center;
+}
+.form {
+  display: flex;
+  justify-content: center;
+}
